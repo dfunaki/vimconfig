@@ -4,3 +4,6 @@
 [submodule "bundle/rspec"]
 	path = bundle/rspec
 	url = https://github.com/Keithbsmiley/rspec.vim.git
+[submodule "bundle/ruby-syntaxchecker"]
+	path = bundle/ruby-syntaxchecker
+	url = https://github.com/vantares/ruby-syntaxchecker.vim
