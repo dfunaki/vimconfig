@@ -7,3 +7,12 @@
 [submodule "bundle/ruby-syntaxchecker"]
 	path = bundle/ruby-syntaxchecker
 	url = https://github.com/vantares/ruby-syntaxchecker.vim
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = https://github.com/kien/ctrlp.vim
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/vim-json"]
+	path = bundle/vim-json
+	url = git://github.com/elzr/vim-json.git
