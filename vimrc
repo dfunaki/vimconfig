@@ -1,7 +1,6 @@
 "execute pathogen#infect()
 "call pathogen#runtime_append_all_bundles()
 "call pathogen#helptags()
-let g:SuperTabDefaultCompletionType = "context"
 set tags=./tags;/
 
 set hidden
@@ -13,11 +12,6 @@ set wildmenu
 set wildmode=list:longest
 set nocompatible
 
-syntax on
-filetype off
-filetype on
-filetype plugin on
-filetype indent on
 
 set expandtab
 set tabstop=2
@@ -104,6 +98,8 @@ filetype off
 filetype on
 filetype plugin on
 filetype indent on
+
+let g:SuperTabDefaultCompletionType = "context"
 
 " Enable syntax folding for blocks and comments.
 set foldmethod=syntax
