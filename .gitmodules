@@ -58,3 +58,6 @@
 [submodule "bundle/vim-endwise"]
 	path = bundle/vim-endwise
 	url = git://github.com/vim-scripts/endwise.vim.git
+[submodule "bundle/vim-jst"]
+	path = bundle/vim-jst
+	url = git://github.com/briancollins/vim-jst.git
