@@ -1,8 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/danf/.rvm/bin'
 let g:netrw_dirhist_2='/Users/danf/Projects/Corndog/.git'
 let g:netrw_dirhist_3='/Users/danf/Projects/Corndog'
 let g:netrw_dirhist_4='/Users/danf/.rvm/src/ruby-1.9.3-p448/ext'
 let g:netrw_dirhist_5='/usr/local/Cellar/mysql/5.6.12/bin'
 let g:netrw_dirhist_6='/Users/danf/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/gems/1.9.1/gems/rmagick-2.12.2/ext/RMagick'
+let g:netrw_dirhist_7='/Users/funaki/.vim/.bundle'
